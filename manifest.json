@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "itexams helper",
+  "description": "Provides more functionality for the interface of the itexams website",
+  "author": "Cristi Macovei",
+  "version": "1.0.0",
+  "icons": {
+    "16": "assets/logo.png",
+    "48": "assets/logo.png",
+    "128": "assets/logo.png"
+  }
+}
