@@ -8,5 +8,11 @@
     "16": "assets/logo.png",
     "48": "assets/logo.png",
     "128": "assets/logo.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.itexams.com/exam/*"],
+      "js": ["content/itexams-exam-fg.js"]
+    }
+  ]
 }
